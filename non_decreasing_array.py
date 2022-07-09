@@ -1,6 +1,6 @@
 class Solution:
     """this code allowed me to achieve, as of 26/06/2022:
-    Runtime: 196 ms, faster than 91.39% of Python3 online submissions for Non-decreasing Array.
+    Runtime: 173 ms, faster than 99.83% of Python3 online submissions for Non-decreasing Array.
     Memory Usage: 15.1 MB, less than 90.98% of Python3 online submissions for Non-decreasing Array."""
 
     def checkPossibility(self, nums: List[int]) -> bool:
